@@ -1,0 +1,10 @@
+192.168.1.1/index/examlist/show
+index:/app/** default is content------目录
+examlist:/app/**default is app  ------文件
+show:/app/    default is index  ------方法
+
+
+tpl是模板文件
+
+
+
